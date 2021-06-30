@@ -1421,6 +1421,11 @@ pre code {
 .container {
 	width: 970px
 }
+.custom_center{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
 }
 @media (min-width:1200px) {
 .container {
